@@ -132,9 +132,9 @@ dmypy.json
 .idea
 
 # Terraform files
-flask_app_deploy_ec2_elb_asg/.terraform
-flask_app_deploy_ec2_elb_asg/terraform.tfstate.backup
-flask_app_deploy_ec2_elb_asg/terraform.tfstate
+.terraform
+terraform.tfstate.backup
+terraform.tfstate
 
 # Elastic Beanstalk Files
-flask_app_deploy_beanstalk/.elasticbeanstalk
+.elasticbeanstalk
