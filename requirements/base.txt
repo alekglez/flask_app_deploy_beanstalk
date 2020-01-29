@@ -1,0 +1,3 @@
+Flask==1.1.1
+coverage==4.5.4
+awsebcli==3.17.0
